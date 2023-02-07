@@ -1,0 +1,7 @@
+fastapi
+transformers4rec[pytorch,nvtabular,dataloader]
+gsutil
+gcsfs
+matplotlib
+google-cloud-aiplatform
+jupyterlab-git
