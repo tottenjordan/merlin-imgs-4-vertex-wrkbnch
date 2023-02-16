@@ -3,5 +3,5 @@ transformers4rec[pytorch,nvtabular,dataloader]
 gsutil
 gcsfs
 matplotlib
-google-cloud-aiplatform
+google-cloud-aiplatform==1.21.0
 jupyterlab-git
